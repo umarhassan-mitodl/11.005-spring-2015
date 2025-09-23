@@ -1,0 +1,37 @@
+leftnav:
+- identifier: a0d085c1-e70a-544c-f377-33234cb38a11
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: c05484bb-f10b-7920-5102-251126c15c41
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 696e79a6-caa4-5dcf-d3aa-daf69aaf2a67
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 4f754a64-9358-931a-5268-69e2d54be004
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 43f8d442-1b11-35be-b1de-da0f95341253
+  name: Weekly Memos and Responses
+  pageRef: /pages/assignments/weekly-memos-and-responses
+  parent: 4f754a64-9358-931a-5268-69e2d54be004
+  weight: 50
+- identifier: 6cd82441-c19b-d144-ff11-9ad936159ee6
+  name: Mini Essays
+  pageRef: /pages/assignments/mini-essays
+  parent: 4f754a64-9358-931a-5268-69e2d54be004
+  weight: 60
+- identifier: f385911d-0483-dca1-3b1d-6f4c732f43d4
+  name: Final Project
+  pageRef: /pages/assignments/final-project
+  parent: 4f754a64-9358-931a-5268-69e2d54be004
+  weight: 70
+- identifier: f4588cca-7d78-dde9-ed55-e6db94317bf2
+  name: Extra Credit
+  pageRef: /pages/assignments/extra-credit
+  parent: 4f754a64-9358-931a-5268-69e2d54be004
+  weight: 80
