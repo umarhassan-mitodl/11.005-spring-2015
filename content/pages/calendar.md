@@ -140,7 +140,7 @@ Development through the Private Sector
 
 Case 1 – Vaxess Technologies
 
-*Guest Lecturer:* [*Livio Valenti*](https://www.vaxess.com/livio-valenti)*, VP Vaxess Technologies.*
+*Guest Lecturer:* {{% resource_link "62aeb8a6-06d5-44cc-8f2b-0ef09666fd12" "*Livio Valenti*" %}}*, VP Vaxess Technologies.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 19
@@ -160,7 +160,7 @@ Development by Fostering Complementarities across Sectors
 
 Case 3 – Development, Science, and Innovation in Africa
 
-*Guest Lecturer:* [*Prof. Calestous Juma*](https://en.wikipedia.org/wiki/Calestous_Juma)*, Harvard Kennedy School & MIT.*
+*Guest Lecturer:* {{% resource_link "0397c8f8-0f1f-4d0c-8680-fc8db2daf291" "*Prof. Calestous Juma*" %}}*, Harvard Kennedy School & MIT.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 21
@@ -170,7 +170,7 @@ Development through Research
 
 Case 4 – Understanding Development taking Gender Seriously
 
-*Guest Lecturer:* [*Lauren Gurfein*](http://www.sp2.upenn.edu/people/view/lauren-ferreira-cardoso/)*, PhD Student in Social Policy, University of Pennsylvania.*
+*Guest Lecturer:* {{% resource_link "56871813-3baf-4fd8-9012-f8da9e837cc9" "*Lauren Gurfein*" %}}*, PhD Student in Social Policy, University of Pennsylvania.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 22
@@ -186,7 +186,7 @@ Development through Non-profit Organizations
 
 Case 5 – The Epic Foundation
 
-*Guest Lecturer:* [*Nicola Crosta*](http://epic.foundation/en/nicola-crosta)*, Executive Vice-President at The Epic Foundation.*
+*Guest Lecturer:* {{% resource_link "1f71aca1-6efc-4324-9e9a-9b3b49f80d82" "*Nicola Crosta*" %}}*, Executive Vice-President at The Epic Foundation.*
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 24
