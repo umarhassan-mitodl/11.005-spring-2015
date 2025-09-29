@@ -4,6 +4,8 @@ description: Outline template for the final project of the course.
 file: /courses/11-005-introduction-to-international-development-spring-2015/044d7bce28a032339fc2a6b7cf07d34d_MIT11_005S15_assign-outline.pdf
 file_size: 549686
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
